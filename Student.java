@@ -14,4 +14,5 @@ class Student {
 	public int ECTSCredits() {
 		//TODO
 	}
+	int grades[] = {7,7,10,10};
 }
